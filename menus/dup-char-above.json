@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Duplicate character above cursor",
+        "command": "dup-char-above:duplicate"
+      }
+    ]
+  }
+}

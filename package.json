@@ -1,0 +1,18 @@
+{
+  "name": "dup-char-above",
+  "main": "./lib/dup-char-above",
+  "version": "0.0.0",
+  "description": "Duplicates the character above the cursor.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "dup-char-above:duplicate"
+  },
+  "repository": "https://github.com/sdturne/dup-char-above",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
