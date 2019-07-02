@@ -1,10 +1,9 @@
 {
   "name": "dup-char-above",
   "main": "./lib/dup-char-above",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Duplicates the character above the cursor.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "dup-char-above:duplicate"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
